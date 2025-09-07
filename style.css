@@ -73,3 +73,20 @@ footer {
         max-width: 90%;
     }
 }
+.oscuro {
+    background-color: #121212 !important;
+    color: #f1f1f1 !important;
+}
+
+.oscuro h1, 
+.oscuro h2, 
+.oscuro p, 
+.oscuro th, 
+.oscuro td {
+    color: #f1f1f1 !important;
+}
+
+.oscuro footer {
+    background-color: #1c1c1c !important;
+    color: #f1f1f1 !important;
+}
